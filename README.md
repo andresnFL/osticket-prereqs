@@ -23,10 +23,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/DJmEXEB.png](https://imgur.com/kBEEeyB)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Before beginning your venture into OsTicket, it is required first to develop your environement. Start a new Microsoft Azure subscription or log into a pre-existing account. Create a resource group when subscription is made and set up a Virtual Machine (Named OsTicket-VM) with Windows 10, 2-4 CPUs, with a new VNET with installation. Use Remote Desktop Connection, include the Public IP address and user login from the resource group for the aforementioned Virtual Machine in order to gain access. 
+Before beginning your adventure into OsTicket, it is required first to develop your environment. Start a new Microsoft Azure subscription or log into a pre-existing account. Create a resource group when subscription is made and set up a Virtual Machine (Named OsTicket-VM) with Windows 10, 2-4 CPUs, with a new VNET with installation. Use Remote Desktop Connection, include the Public IP address and user login from the resource group for the aforementioned Virtual Machine in order to gain access. 
 </p>
 <br />
 
